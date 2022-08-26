@@ -1,7 +1,8 @@
 # taller-26-de-agosto
 ´´´´
+    ´
     Sub actividad()
-    
+     
     ingresos = InputBox("ingrese impuestos anuales de la empresa")
     
     If ingresos >= 0 And ingresos < 1000 Then
