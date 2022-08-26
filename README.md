@@ -1,6 +1,6 @@
 # taller-26-de-agosto
 ´´´´
-    ´
+
     Sub actividad()
      
     ingresos = InputBox("ingrese impuestos anuales de la empresa")
